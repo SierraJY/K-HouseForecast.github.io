@@ -107,7 +107,7 @@ author:
   name             : "OSS group11\n(PARK_JU_YEON &\nSHIN SEOK JUN)"
   avatar           : "assets/logo.jpg"
   bio              : "This project is an open-source program for predicting South Korean real estate prices."
-  location         : "South Korea/Seoul"
+  location         : "SJU/South Korea/Seoul"
   email            :
   links:
     - label: "Email"
