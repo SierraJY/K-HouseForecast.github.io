@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Features"
+    url: /features/
+  - title: "Contact Us"
+    url: /contactus/
+  - title: "Community"
+    url: /community/
