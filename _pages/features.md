@@ -6,14 +6,12 @@ title: "Features"
 
 **There is a function to predict how real estate prices will change in the future using 10 years of price data. By dividing the data by region, it is possible to compare prices by region.**
 
-1. Environment Setup
+1.Environment Setup
+Confirm the installation of Python and required libraries.
+Open Jupyter Notebook and run the Real_Estate_Prediction.ipynb file.
 
-    * Confirm the installation of Python and required libraries.
-    * Open Jupyter Notebook and run the Real_Estate_Prediction.ipynb file.
-
-2. Data Loading
-
-    * Load the data from the 'dataset.csv' file within the code to inspect and preprocess the data.
+2.Data Loading
+* Load the data from the 'dataset.csv' file within the code to inspect and preprocess the data.
 
 3. Model Training
 
