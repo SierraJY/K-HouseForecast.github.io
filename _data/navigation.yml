@@ -8,3 +8,5 @@ main:
     url: /contactus/
   - title: "Community"
     url: /community/
+  - title: "Download"
+    url: https://github.com/SierraJY/K-HouseForecast
