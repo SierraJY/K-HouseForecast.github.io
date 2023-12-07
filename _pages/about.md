@@ -5,6 +5,10 @@ title: "About"
 date: "2023-12-05 00:00:00 +0900"
 ---
 
+## Mission Statement
+
+---
+
 The main objective of the project is to develop a model utilizing data analysis and machine learning techniques to predict housing prices in South Korea. 
 
 This enables forecasting the trends in the real estate market and anticipating future housing price trends.
