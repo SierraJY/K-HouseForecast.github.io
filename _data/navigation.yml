@@ -10,3 +10,5 @@ main:
     url: /community/
   - title: "Download"
     url: https://github.com/SierraJY/K-HouseForecast
+  - title: "Documentation"
+    url: https://k-houseforecast.readthedocs.io/en/latest/index.html
